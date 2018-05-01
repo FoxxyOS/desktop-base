@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=foxxy
+Description=A theme that features a blank background with a logo.
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/foxxy
+ScriptFile=/usr/share/plymouth/themes/foxxy/foxxy.script

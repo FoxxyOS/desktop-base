@@ -1,0 +1,4 @@
+# Defaults provided by desktop-base for the foxxy theme
+[Daemon]
+Theme=foxxy
+ShowDelay=0
